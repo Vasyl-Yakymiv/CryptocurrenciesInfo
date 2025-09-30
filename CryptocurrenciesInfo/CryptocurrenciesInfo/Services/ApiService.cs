@@ -18,6 +18,7 @@ namespace CryptocurrenciesInfo.Services
         public ApiService(HttpClient httpClient)
         {
             _httpClient = httpClient;
+            httpClient.DefaultRequestHeaders.Add("User-Agent", "CryptoApp/1.0");
         }
         public async Task<CryptocurrencyDetails> GetCurrencyByIdAsync(string id)
         {

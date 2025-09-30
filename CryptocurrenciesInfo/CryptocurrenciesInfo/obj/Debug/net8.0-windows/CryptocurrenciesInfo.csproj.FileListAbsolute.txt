@@ -3,11 +3,8 @@ C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\bin\Debug\net8.0-windows\CryptocurrenciesInfo.runtimeconfig.json
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\bin\Debug\net8.0-windows\CryptocurrenciesInfo.dll
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\bin\Debug\net8.0-windows\CryptocurrenciesInfo.pdb
-C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo_MarkupCompile.cache
-C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo_MarkupCompile.lref
-C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo.g.resources
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo.AssemblyInfoInputs.cache
@@ -19,3 +16,5 @@ C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo.pdb
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo.genruntimeconfig.cache
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\ref\CryptocurrenciesInfo.dll
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\MainWindow.baml

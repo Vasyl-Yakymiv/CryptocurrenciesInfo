@@ -1,4 +1,8 @@
-﻿using System.Text;
+﻿using CryptocurrenciesInfo.Interfaces;
+using CryptocurrenciesInfo.Repository;
+using CryptocurrenciesInfo.Services;
+using CryptocurrenciesInfo.ViewModels;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -9,13 +13,15 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace CryptocurrenciesInfo
+namespace CryptocurrenciesInfo.Views
 {
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
+
+            DataContext = new MainViewModel(App.CryptoRepository);
         }
     }
 }
