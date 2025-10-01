@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\App.xaml
-1-1644662438
+3-1053585332
 
-14-1532503072
+201244132384
 198-1509178875
-Views\MainWindow.xaml;
+Views\DetailWindow.xaml;Views\MainWindow.xaml;Views\SearchWindow.xaml;
 
 False
 

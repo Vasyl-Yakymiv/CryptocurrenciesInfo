@@ -2,6 +2,7 @@
 using CryptocurrenciesInfo.Models;
 using System;
 using System.Collections.Generic;
+using System.DirectoryServices;
 using System.Linq;
 using System.Net.Http;
 using System.Reflection.Metadata.Ecma335;
@@ -40,14 +41,15 @@ namespace CryptocurrenciesInfo.Services
             return JsonSerializer.Deserialize<IEnumerable<CryptocurrencyGeneral>>(json);
         }
 
-        public async Task<IEnumerable<CryptocurrencyDetails>> SearchCurrencyAsync(string query)
+        public async Task<IEnumerable<SearchCoin>> SearchCurrencyAsync(string query)
         {
             var response = await _httpClient.GetAsync($"search?query={query}");
             response.EnsureSuccessStatusCode();
 
-            var json = await response.Content.ReadAsStringAsync();
+            var json = await response.Content.ReadAsStreamAsync();
+            var result = await JsonSerializer.DeserializeAsync<SearchCurrency>(json);
 
-            return JsonSerializer.Deserialize<IEnumerable<CryptocurrencyDetails>>(json);
+            return result?.Coins ?? new List<SearchCoin>();
         }
     }
 }

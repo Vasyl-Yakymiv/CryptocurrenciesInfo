@@ -11,6 +11,6 @@ namespace CryptocurrenciesInfo.Interfaces
     {
         Task<IEnumerable<CryptocurrencyGeneral>> GetTopCurrenciesAsync(int amount);
         Task<CryptocurrencyDetails> GetCurrencyByIdAsync(string id);
-        Task<IEnumerable<CryptocurrencyDetails>> SearchCurrenciesAsync(string query);
+        Task<IEnumerable<SearchCoin>> SearchCurrenciesAsync(string query);
     }
 }

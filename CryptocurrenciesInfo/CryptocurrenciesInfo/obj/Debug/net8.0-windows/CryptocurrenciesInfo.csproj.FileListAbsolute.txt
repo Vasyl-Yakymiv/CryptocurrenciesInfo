@@ -18,3 +18,8 @@ C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\ref\CryptocurrenciesInfo.dll
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\DetailWindow.g.cs
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\CryptocurrenciesInfo_MarkupCompile.lref
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\DetailWindow.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\SearchWindow.g.cs
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\SearchWindow.baml

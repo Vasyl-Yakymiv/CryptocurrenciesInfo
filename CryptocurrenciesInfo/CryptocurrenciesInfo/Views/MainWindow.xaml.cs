@@ -23,5 +23,20 @@ namespace CryptocurrenciesInfo.Views
 
             DataContext = new MainViewModel(App.CryptoRepository);
         }
+
+        private void Open_Details_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button btn && btn.Tag is string id)
+            {
+                var deatil = new DetailWindow(App.CryptoRepository, id);
+                deatil.Show();
+            }
+        }
+
+        private void Search_Button_Click(object sender, RoutedEventArgs e)
+        {
+            var search = new SearchWindow(App.CryptoRepository);
+            search.Show();
+        }
     }
 }

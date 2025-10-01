@@ -32,7 +32,7 @@ namespace CryptocurrenciesInfo.Repository
             return data.ToList();
         }
 
-        public async Task<IEnumerable<CryptocurrencyDetails>> SearchCurrenciesAsync(string query)
+        public async Task<IEnumerable<SearchCoin>> SearchCurrenciesAsync(string query)
         {
             if (string.IsNullOrWhiteSpace(query))
                 throw new ArgumentException("Currency query cannot be null or empty.", nameof(query));
