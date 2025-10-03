@@ -20,7 +20,6 @@ namespace CryptocurrenciesInfo
             {
                 BaseAddress = new Uri("https://api.coingecko.com/api/v3/")
             };
-
             ApiService = new ApiService(httpClient);
             CryptoRepository = new CryptoRepository(ApiService);
         }

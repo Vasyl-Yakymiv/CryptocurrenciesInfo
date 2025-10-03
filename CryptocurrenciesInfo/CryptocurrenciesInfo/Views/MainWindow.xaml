@@ -22,6 +22,8 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <Button Content="Search" HorizontalAlignment="Left" Margin="391,3,0,0" VerticalAlignment="Top" Width="87" Click="Search_Button_Click"/>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="300,3,0,0" VerticalAlignment="Top" Width="86" Click="Search_Button_Click"/>
+        <Button Content="Convetor" HorizontalAlignment="Left" Margin="391,3,0,0" VerticalAlignment="Top" Width="87" Click="Convert_Button_Click"/>
+        <Button Content="Settings" HorizontalAlignment="Left" Margin="483,3,0,0" VerticalAlignment="Top" Width="87" Click="Settings_Button_Click"/>
     </Grid>
 </Window>

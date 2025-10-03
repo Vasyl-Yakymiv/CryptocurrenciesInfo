@@ -3,44 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\searchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\searchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\searchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\searchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\convertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\convertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\convertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\convertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\searchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\searchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\viewmodels\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\viewmodels\\detailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\interfaces\\icryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\interfaces\\icryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\viewmodels\\convertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\viewmodels\\convertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\repository\\cryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\repository\\cryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CryptocurrenciesInfo\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\interfaces\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\interfaces\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\models\\\u0441ryptocurrencygeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\models\\\u0441ryptocurrencygeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\interfaces\\icryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\interfaces\\icryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\models\\cryptocurrencydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\models\\cryptocurrencydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\models\\searchcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,28 +115,8 @@
       "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\models\\marketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\models\\cryptocurrencydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\models\\cryptocurrencydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\repository\\cryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\repository\\cryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\models\\searchcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\models\\searchcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\searchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\searchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|c:\\users\\kynguat\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\cryptocurrenciesinfo\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8FD1F193-192B-42B9-9A6E-85EF2C14D3F4}|CryptocurrenciesInfo\\CryptocurrenciesInfo.csproj|solutionrelative:cryptocurrenciesinfo\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,50 +126,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:57:46.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DetailViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:57:45.188Z",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T11:38:25.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SearchWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T11:35:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SettingsWindow.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-03T11:36:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\SettingsWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:41:00.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T12:57:51.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\ConvertWindow.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\ConvertWindow.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\ConvertWindow.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\ConvertWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T10:46:57.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Themes\\Light.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Themes\\Light.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Themes\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-03T10:53:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Themes\\Dark.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Themes\\Dark.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Themes\\Dark.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Themes\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-03T10:53:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConvertWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\ConvertWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\ConvertWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\ConvertWindow.xaml.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\ConvertWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAhwDYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:47:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "CryptocurrenciesInfo\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAACcAAAAJAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T11:36:37.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "SearchWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SearchWindow.xaml.cs",
               "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\SearchWindow.xaml.cs",
@@ -138,71 +266,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DetailWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "DocumentIndex": 11,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T11:35:20.819Z",
+              "WhenOpened": "2025-10-03T11:34:12.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetailWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-01T12:57:51.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "\u0421ryptocurrencyGeneral.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "DetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\ViewModels\\DetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:57:37.229Z",
+              "WhenOpened": "2025-10-01T12:57:45.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SearchCoin.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\SearchCoin.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Models\\SearchCoin.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\SearchCoin.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Models\\SearchCoin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "DocumentIndex": 13,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:42:15.692Z",
+              "WhenOpened": "2025-10-01T12:57:46.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "SearchViewModel.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\SearchViewModel.cs",
               "RelativeDocumentMoniker": "CryptocurrenciesInfo\\ViewModels\\SearchViewModel.cs",
               "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\SearchViewModel.cs",
               "RelativeToolTip": "CryptocurrenciesInfo\\ViewModels\\SearchViewModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowBYAAAANAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T11:26:31.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
+              "Title": "ConvertViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\ConvertViewModel.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\ViewModels\\ConvertViewModel.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\ViewModels\\ConvertViewModel.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\ViewModels\\ConvertViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:37:00.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\DetailWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:35:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\App.xaml",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\App.xaml",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\App.xaml",
+              "RelativeToolTip": "CryptocurrenciesInfo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T09:45:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\App.xaml.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:45:59.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CryptoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:09:14.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:06:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:51:52.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Services\\ApiService.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Services\\ApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:41:05.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "\u0421ryptocurrencyGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Models\\\u0421ryptocurrencyGeneral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:57:37.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICryptoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:52:13.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "CryptocurrencyDetails.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\CryptocurrencyDetails.cs",
               "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Models\\CryptocurrencyDetails.cs",
@@ -210,51 +451,23 @@
               "RelativeToolTip": "CryptocurrenciesInfo\\Models\\CryptocurrencyDetails.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:42:49.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T12:42:49.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IApiService.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Interfaces\\IApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 26,
+              "Title": "SearchCoin.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\SearchCoin.cs",
+              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Models\\SearchCoin.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\SearchCoin.cs",
+              "RelativeToolTip": "CryptocurrenciesInfo\\Models\\SearchCoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:51:52.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T12:42:15.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICryptoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Interfaces\\ICryptoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:52:13.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Services\\ApiService.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Services\\ApiService.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Services\\ApiService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwDQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T11:41:05.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "SearchCurrency.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\SearchCurrency.cs",
               "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Models\\SearchCurrency.cs",
@@ -262,12 +475,11 @@
               "RelativeToolTip": "CryptocurrenciesInfo\\Models\\SearchCurrency.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:41:13.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T12:41:13.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "MarketData.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Models\\MarketData.cs",
               "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Models\\MarketData.cs",
@@ -275,43 +487,7 @@
               "RelativeToolTip": "CryptocurrenciesInfo\\Models\\MarketData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:43:07.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CryptoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Repository\\CryptoRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:09:14.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SearchWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\SearchWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-01T11:35:09.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CryptocurrenciesInfo\\Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\KynguaT\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\CryptocurrenciesInfo\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "CryptocurrenciesInfo\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-01T11:38:25.556Z"
+              "WhenOpened": "2025-10-01T12:43:07.728Z"
             }
           ]
         }

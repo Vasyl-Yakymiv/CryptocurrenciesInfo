@@ -13,17 +13,11 @@
         </Grid.RowDefinitions>
 
         <StackPanel Orientation="Horizontal" Margin="0 0 0 10">
-            <TextBox x:Name="SearchTextBox"
-                 Width="200"
-                 VerticalAlignment="Center"
-                 Text="Enter name or symbol"/>
-            <Button Content="Search"
-                Width="80"
-                Margin="10 0 0 0"
-                Click="Search_Button_Click"/>
+            <TextBox x:Name="SearchTextBox" Width="200" VerticalAlignment="Center" Text="Enter name or symbol"/>
+            <Button Content="Search" Width="80" Margin="10 0 0 0"  Click="Search_Button_Click"/>
         </StackPanel>
 
-        <ListView ItemsSource="{Binding Currencies}" Margin="0,31,0,343" Grid.Row="1">
+        <ListView ItemsSource="{Binding Currencies}" Margin="0,31,0,10" Grid.Row="1">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Title}" Width="200"/>

@@ -23,3 +23,10 @@ C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\DetailWindow.baml
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\SearchWindow.g.cs
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\SearchWindow.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\ConvertWindow.g.cs
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\ConvertWindow.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Themes\Dark.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Themes\Light.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\App.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\SettingsWindow.g.cs
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\SettingsWindow.baml

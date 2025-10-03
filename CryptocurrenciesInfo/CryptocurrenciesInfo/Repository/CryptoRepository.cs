@@ -12,6 +12,7 @@ namespace CryptocurrenciesInfo.Repository
     internal class CryptoRepository : ICryptoRepository
     {
         private readonly IApiService _apiService;
+        private List<CryptocurrencyGeneral>? _cryptosCache;
 
         public CryptoRepository(IApiService apiService)
         {
@@ -39,6 +40,29 @@ namespace CryptocurrenciesInfo.Repository
 
             var data = await _apiService.SearchCurrencyAsync(query);
             return data.ToList();
-        }     
+        }
+
+        private async Task EnsureInitializedAsync()
+        {
+            if (_cryptosCache == null)
+            {
+                var list = await _apiService.GetСryptocurrenciesAsync(100);
+                _cryptosCache = list.ToList();
+            }
+        }
+
+        public async Task<decimal?> CureencyConvertorAsync(string currencyFromName, string currencyToName, decimal amount)
+        {
+            await EnsureInitializedAsync();
+
+            var currencyFrom = _cryptosCache!
+                .FirstOrDefault(c => string.Equals(c.Id, currencyFromName, StringComparison.OrdinalIgnoreCase) || string.Equals(c.Symbol, currencyFromName, StringComparison.OrdinalIgnoreCase));
+
+            var currencyTo = _cryptosCache!
+                .FirstOrDefault(c => string.Equals(c.Id, currencyToName, StringComparison.OrdinalIgnoreCase) || string.Equals(c.Symbol, currencyToName, StringComparison.OrdinalIgnoreCase));
+
+            var total = amount * currencyFrom.Price;
+            return total / currencyTo.Price;
+        }
     }
 }

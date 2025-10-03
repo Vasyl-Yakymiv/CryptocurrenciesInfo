@@ -38,5 +38,19 @@ namespace CryptocurrenciesInfo.Views
             var search = new SearchWindow(App.CryptoRepository);
             search.Show();
         }
+
+        private void Convert_Button_Click(object sender, RoutedEventArgs e)
+        {
+            var convert = new ConvertWindow(App.CryptoRepository);
+            convert.Show();
+            this.Hide();
+        }
+
+        private void Settings_Button_Click(object sender, RoutedEventArgs e)
+        {
+            var settings = new SettingsWindow();
+            settings.Show();
+            this.Hide();
+        }
     }
 }
