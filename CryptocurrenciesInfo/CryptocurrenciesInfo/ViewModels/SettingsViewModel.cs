@@ -13,6 +13,7 @@ namespace CryptocurrenciesInfo.ViewModels
         public event PropertyChangedEventHandler? PropertyChanged;
 
         public List<string> Themes { get; } = new List<string> { "Light", "Dark" };
+        public List<string> Languages { get; } = new() { "English", "Ukrainian" };
 
         private string _selectedTheme;
         public string SelectedTheme
@@ -25,6 +26,21 @@ namespace CryptocurrenciesInfo.ViewModels
                     _selectedTheme = value;
                     OnPropertyChanged();
                     ApplyTheme(_selectedTheme);
+                }
+            }
+        }
+
+        private string _selectedLanguage;
+        public string SelectedLanguage
+        {
+            get => _selectedLanguage;
+            set
+            {
+                if (_selectedLanguage != value)
+                {
+                    _selectedLanguage = value;
+                    OnPropertyChanged();
+                    ApplyLanguage(_selectedLanguage);
                 }
             }
         }
@@ -43,6 +59,21 @@ namespace CryptocurrenciesInfo.ViewModels
             }
 
             Application.Current.Resources.MergedDictionaries.Clear();
+            Application.Current.Resources.MergedDictionaries.Add(dict);
+        }
+
+        private void ApplyLanguage(string language)
+        {
+            var dict = new ResourceDictionary();
+            switch (language)
+            {
+                case "Ukrainian":
+                    dict.Source = new Uri("Resource/Resource.ua.xaml", UriKind.Relative);
+                    break;
+                default:
+                    dict.Source = new Uri("Resource/Resource.en.xaml", UriKind.Relative);
+                    break;
+            }
             Application.Current.Resources.MergedDictionaries.Add(dict);
         }
 

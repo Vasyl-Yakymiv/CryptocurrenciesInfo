@@ -21,6 +21,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Resource\Resource.en.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resource\Resource.ua.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Themes\Dark.xaml">
       <SubType>Designer</SubType>
     </Page>

@@ -50,7 +50,6 @@ namespace CryptocurrenciesInfo.Views
         {
             var settings = new SettingsWindow();
             settings.Show();
-            this.Hide();
         }
     }
 }

@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+    <v:String x:Key="Convertor_From">Конвертувати з</v:String>
+    <v:String x:Key="Convertor_To">Конвертувати в</v:String>
+    <v:String x:Key="Convertor_Amount">Кількість</v:String>
+    <v:String x:Key="Convert_Button">Конвертувати</v:String>
+    <v:String x:Key="Back_Button">Повернутись</v:String>
+    <v:String x:Key="Price">Ціна </v:String>
+    <v:String x:Key="24h_Volume">Обсяги за 24 години</v:String>
+    <v:String x:Key="24h_Change">Зміни за 24 години</v:String>
+    <v:String x:Key="Name">Ім'я</v:String>
+    <v:String x:Key="Main_Symbol">Символ</v:String>
+    <v:String x:Key="Main_Price">Ціна</v:String>
+    <v:String x:Key="Detail">Інформація</v:String>
+    <v:String x:Key="Detail_Page">Детальна інформація</v:String>
+    <v:String x:Key="Search">Пошук</v:String>
+    <v:String x:Key="Convertor">Конвертор</v:String>
+    <v:String x:Key="Settings">Налаштування</v:String>
+</ResourceDictionary>

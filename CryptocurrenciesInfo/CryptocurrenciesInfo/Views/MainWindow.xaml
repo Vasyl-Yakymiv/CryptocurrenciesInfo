@@ -6,13 +6,13 @@
         <ListView ItemsSource="{Binding Currencies}" Margin="0,28,0,-28">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Title}" Width="200"/>
-                    <GridViewColumn Header="Symbol" DisplayMemberBinding="{Binding Symbol}" Width="100"/>
-                    <GridViewColumn Header="Price" DisplayMemberBinding="{Binding Price}" Width="150"/>
-                    <GridViewColumn Header="DetailPage" Width="100">
+                    <GridViewColumn Header="{DynamicResource Name}" DisplayMemberBinding="{Binding Title}" Width="200"/>
+                    <GridViewColumn Header="{DynamicResource Main_Symbol}" DisplayMemberBinding="{Binding Symbol}" Width="100"/>
+                    <GridViewColumn Header="{DynamicResource Main_Price}" DisplayMemberBinding="{Binding Price}" Width="150"/>
+                    <GridViewColumn Header="{DynamicResource Detail_Page}" Width="200">
                         <GridViewColumn.CellTemplate>
                             <DataTemplate>
-                                <Button Content="Details"
+                                <Button Content="{DynamicResource Detail}"
                                         Tag="{Binding Id}"
                                         Click="Open_Details_Click"
                                         Width="70" Height="25"/>
@@ -22,8 +22,8 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <Button Content="Search" HorizontalAlignment="Left" Margin="300,3,0,0" VerticalAlignment="Top" Width="86" Click="Search_Button_Click"/>
-        <Button Content="Convetor" HorizontalAlignment="Left" Margin="391,3,0,0" VerticalAlignment="Top" Width="87" Click="Convert_Button_Click"/>
-        <Button Content="Settings" HorizontalAlignment="Left" Margin="483,3,0,0" VerticalAlignment="Top" Width="87" Click="Settings_Button_Click"/>
+        <Button Content="{DynamicResource Search}" HorizontalAlignment="Left" Margin="300,3,0,0" VerticalAlignment="Top" Width="86" Click="Search_Button_Click"/>
+        <Button Content="{DynamicResource Convertor}" HorizontalAlignment="Left" Margin="391,3,0,0" VerticalAlignment="Top" Width="87" Click="Convert_Button_Click"/>
+        <Button Content="{DynamicResource Settings}" HorizontalAlignment="Left" Margin="483,3,0,0" VerticalAlignment="Top" Width="87" Click="Settings_Button_Click"/>
     </Grid>
 </Window>
