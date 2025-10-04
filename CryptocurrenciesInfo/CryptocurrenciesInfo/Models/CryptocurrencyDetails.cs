@@ -17,6 +17,9 @@ namespace CryptocurrenciesInfo.Models
         [JsonPropertyName("symbol")]
         public string Symbol { get; set; }
 
+        [JsonPropertyName("image")]
+        public CoinImage Image { get; set; }
+
         [JsonPropertyName("market_data")]
         public MarketData MarketData { get; set; }
 

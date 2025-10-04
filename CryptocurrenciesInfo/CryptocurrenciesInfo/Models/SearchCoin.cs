@@ -18,6 +18,9 @@ namespace CryptocurrenciesInfo.Models
         [JsonPropertyName("symbol")]
         public string Symbol { get; set; }
 
+        [JsonPropertyName("current_price")]
+        public decimal Price { get; set; }
+
         [JsonPropertyName("market_cap_rank")]
         public int? MarketCapRank { get; set; }
     }

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CryptocurrenciesInfo.Views"
         mc:Ignorable="d"
-        Title="SearchWindow" Height="450" Width="800">
+        Title="{DynamicResource Search_Window}" Height="450" Width="650" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontFamily="Segoe UI" FontSize="12">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -17,19 +17,19 @@
             <Button Content="{DynamicResource Search}" Width="80" Margin="10 0 0 0"  Click="Search_Button_Click"/>
         </StackPanel>
 
-        <ListView ItemsSource="{Binding Currencies}" Margin="0,31,0,10" Grid.Row="1">
+        <ListView ItemsSource="{Binding Currencies}" Margin="0,2,0,37" Grid.Row="1">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="{DynamicResource Name}" DisplayMemberBinding="{Binding Title}" Width="200"/>
+                    <GridViewColumn Header="{DynamicResource Name}" DisplayMemberBinding="{Binding Name}" Width="200"/>
                     <GridViewColumn Header="{DynamicResource Main_Symbol}" DisplayMemberBinding="{Binding Symbol}" Width="100"/>
-                    <GridViewColumn Header="{DynamicResource Main_Price}" DisplayMemberBinding="{Binding Price}" Width="150"/>
-                    <GridViewColumn Header="{DynamicResource Detail_Page}" Width="150">
+                    <GridViewColumn Header="{DynamicResource Market_Rank}" DisplayMemberBinding="{Binding MarketCapRank}" Width="150"/>
+                    <GridViewColumn Header="{DynamicResource Detail_Page}" Width="200">
                         <GridViewColumn.CellTemplate>
                             <DataTemplate>
                                 <Button Content="{DynamicResource Detail}"
                     Tag="{Binding Id}"
                     Click="Open_Details_Click"
-                    Width="70" Height="25"/>
+                    Width="120" Height="25"/>
                             </DataTemplate>
                         </GridViewColumn.CellTemplate>
                     </GridViewColumn>

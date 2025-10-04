@@ -17,4 +17,10 @@
     <v:String x:Key="Search">Search</v:String>
     <v:String x:Key="Convertor">Convertor</v:String>
     <v:String x:Key="Settings">Settings</v:String>
+    <v:String x:Key="Market_Rank">Market Rank</v:String>
+    <v:String x:Key="Main_Window">Cryptocurrrency Info</v:String>
+    <v:String x:Key="Convert_Window">Cryprocurrency Convertor</v:String>
+    <v:String x:Key="Detail_Window">Detail</v:String>
+    <v:String x:Key="Search_Window">Search</v:String>
+    <v:String x:Key="Settings_Window">Settings</v:String>
 </ResourceDictionary>

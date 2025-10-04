@@ -32,3 +32,4 @@ C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Views\SettingsWindow.baml
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Resource\Resource.en.baml
 C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\obj\Debug\net8.0-windows\Resource\Resource.ua.baml
+C:\Users\KynguaT\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\CryptocurrenciesInfo\bin\Debug\net8.0-windows\CryptocurrenciesInfo.dll.config

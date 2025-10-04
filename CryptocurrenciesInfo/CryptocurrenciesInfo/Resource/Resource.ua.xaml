@@ -18,4 +18,10 @@
     <v:String x:Key="Search">Пошук</v:String>
     <v:String x:Key="Convertor">Конвертор</v:String>
     <v:String x:Key="Settings">Налаштування</v:String>
+    <v:String x:Key="Market_Rank">Популярність валюти</v:String>
+    <v:String x:Key="Main_Window">Інформаційна платформа про криптовалюту</v:String>
+    <v:String x:Key="Convert_Window">Конвертор криптовалют</v:String>
+    <v:String x:Key="Detail_Window">Інформація</v:String>
+    <v:String x:Key="Search_Window">Пошук</v:String>
+    <v:String x:Key="Settings_Window">Налаштування</v:String>
 </ResourceDictionary>

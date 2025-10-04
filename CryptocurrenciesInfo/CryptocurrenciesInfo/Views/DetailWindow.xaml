@@ -5,13 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CryptocurrenciesInfo.Views"
         mc:Ignorable="d"
-        Title="DetailWindow" Height="450" Width="800">
+        Title="{DynamicResource Detail_Window}" Height="290" Width="340" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontFamily="Segoe UI" FontSize="12" >
     <Grid>
-        <StackPanel>
+        <StackPanel Margin="190,0,0,0">
             <TextBlock Text="{Binding Currency.Title}" 
                        FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
             <TextBlock Text="{Binding Currency.Symbol}" FontSize="16" Margin="0,0,0,5"/>
-            <TextBlock Text="{DynamicResource Price}" FontWeight="Bold"/>
+            <TextBlock Text="{DynamicResource Price}" FontWeight="Bold" Width="147"/>
             <TextBlock Text="{Binding Currency.Price}" Margin="0,0,0,10"/>
 
             <TextBlock Text="{DynamicResource 24h_Volume}" FontWeight="Bold"/>
@@ -20,5 +20,6 @@
             <TextBlock Text="{DynamicResource 24h_Change}" FontWeight="Bold"/>
             <TextBlock Text="{Binding Currency.PriceChange24h}" Margin="0,0,0,10"/>
         </StackPanel>
+        <Image  Source="{Binding Currency.Image.Large}" HorizontalAlignment="Left" Height="160" Margin="10,41,0,0" VerticalAlignment="Top" Width="160"/>
     </Grid>
 </Window>

@@ -21,13 +21,15 @@ namespace CryptocurrenciesInfo.Views
         {
             InitializeComponent();
             DataContext = new SettingsViewModel();
+
+            this.Resources.MergedDictionaries.Clear();
+            foreach (var dict in Application.Current.Resources.MergedDictionaries)
+                this.Resources.MergedDictionaries.Add(dict);
         }
 
         private void Back_Button_Click(object sender, RoutedEventArgs e)
         {
-            var mainWindow = new MainWindow();
-            mainWindow.Show();
-            this.Hide();
+            this.Close();
         }
     }
 }

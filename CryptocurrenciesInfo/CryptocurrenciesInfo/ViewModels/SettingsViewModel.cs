@@ -15,6 +15,14 @@ namespace CryptocurrenciesInfo.ViewModels
         public List<string> Themes { get; } = new List<string> { "Light", "Dark" };
         public List<string> Languages { get; } = new() { "English", "Ukrainian" };
 
+        private static string _currentTheme = "Light";
+        private static string _currentLanguage = "English";
+
+        public SettingsViewModel()
+        {
+            _selectedTheme = _currentTheme;
+            _selectedLanguage = _currentLanguage;
+        }
         private string _selectedTheme;
         public string SelectedTheme
         {
@@ -26,6 +34,7 @@ namespace CryptocurrenciesInfo.ViewModels
                     _selectedTheme = value;
                     OnPropertyChanged();
                     ApplyTheme(_selectedTheme);
+                    _currentTheme = _selectedTheme;
                 }
             }
         }
@@ -41,6 +50,7 @@ namespace CryptocurrenciesInfo.ViewModels
                     _selectedLanguage = value;
                     OnPropertyChanged();
                     ApplyLanguage(_selectedLanguage);
+                    _currentLanguage = _selectedLanguage;
                 }
             }
         }
