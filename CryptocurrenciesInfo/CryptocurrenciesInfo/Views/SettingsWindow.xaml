@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="{DynamicResource Settings_Window}" Height="250" Width="350" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="54,35,0,0" TextWrapping="Wrap" Text="Color Scheme" VerticalAlignment="Top"/>
-        <ComboBox HorizontalAlignment="Left" Margin="172,32,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding Themes}" SelectedItem="{Binding SelectedTheme, Mode=TwoWay}" Text="Light"/>
-        <Button Content="Back" HorizontalAlignment="Center" Margin="0,130,0,0" VerticalAlignment="Top" Width="238" Click="Back_Button_Click"/>
-        <TextBlock HorizontalAlignment="Left" Margin="54,68,0,0" TextWrapping="Wrap" Text="Select Language" VerticalAlignment="Top"/>
-        <ComboBox HorizontalAlignment="Left" Margin="172,65,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding Languages}" SelectedItem="{Binding SelectedLanguage, Mode=TwoWay}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="54,35,0,0" TextWrapping="Wrap" Text="{DynamicResource Set_Theme}" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="172,32,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding Themes}" SelectedItem="{Binding SelectedTheme, Mode=TwoWay}" Height="25"/>
+        <Button Content="{DynamicResource Back_Button}" HorizontalAlignment="Center" Margin="0,144,0,0" VerticalAlignment="Top" Width="238" Click="Back_Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="54,70,0,0" TextWrapping="Wrap" Text="{DynamicResource Set_Language}" VerticalAlignment="Top" RenderTransformOrigin="0.453,0.883"/>
+        <ComboBox HorizontalAlignment="Left" Margin="172,65,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding Languages}" SelectedItem="{Binding SelectedLanguage, Mode=TwoWay}" Height="25" Foreground="White"/>
     </Grid>
 </Window>

@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="{DynamicResource Main_Window}" Height="400" Width="650" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontFamily="Segoe UI" FontSize="12" >
     <Grid>
-        <ListView ItemsSource="{Binding Currencies}" Margin="0,28,0,-28">
+        <ListView ItemsSource="{Binding Currencies}" Margin="0,28,0,-15" Background="{DynamicResource ListViewBackground}">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="{DynamicResource Name}" DisplayMemberBinding="{Binding Title}" Width="200"/>

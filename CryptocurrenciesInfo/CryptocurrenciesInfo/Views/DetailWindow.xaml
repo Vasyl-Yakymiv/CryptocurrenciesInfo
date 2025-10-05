@@ -12,11 +12,10 @@
                        FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
             <TextBlock Text="{Binding Currency.Symbol}" FontSize="16" Margin="0,0,0,5"/>
             <TextBlock Text="{DynamicResource Price}" FontWeight="Bold" Width="147"/>
-            <TextBlock Text="{Binding Currency.Price}" Margin="0,0,0,10"/>
+            <TextBlock Text="{Binding Currency.Price, StringFormat={}{0} $}" />
 
             <TextBlock Text="{DynamicResource 24h_Volume}" FontWeight="Bold"/>
-            <TextBlock Text="{Binding Currency.Volume24h}" Margin="0,0,0,10"/>
-
+            <TextBlock Text="{Binding Currency.Volume24h, StringFormat={}{0} $}" Margin="0,0,0,10"/>
             <TextBlock Text="{DynamicResource 24h_Change}" FontWeight="Bold"/>
             <TextBlock Text="{Binding Currency.PriceChange24h}" Margin="0,0,0,10"/>
         </StackPanel>

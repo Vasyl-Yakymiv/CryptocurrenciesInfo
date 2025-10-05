@@ -68,8 +68,18 @@ namespace CryptocurrenciesInfo.ViewModels
                     break;
             }
 
-            Application.Current.Resources.MergedDictionaries.Clear();
-            Application.Current.Resources.MergedDictionaries.Add(dict);
+            var existingTheme = Application.Current.Resources.MergedDictionaries
+         .FirstOrDefault(d => d.Source != null && d.Source.OriginalString.StartsWith("Themes/"));
+
+            if (existingTheme != null)
+            {
+                int index = Application.Current.Resources.MergedDictionaries.IndexOf(existingTheme);
+                Application.Current.Resources.MergedDictionaries[index] = dict;
+            }
+            else
+            {
+                Application.Current.Resources.MergedDictionaries.Add(dict);
+            }
         }
 
         private void ApplyLanguage(string language)

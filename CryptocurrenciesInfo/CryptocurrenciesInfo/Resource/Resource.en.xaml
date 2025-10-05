@@ -23,4 +23,6 @@
     <v:String x:Key="Detail_Window">Detail</v:String>
     <v:String x:Key="Search_Window">Search</v:String>
     <v:String x:Key="Settings_Window">Settings</v:String>
+    <v:String x:Key="Set_Theme">Set theme</v:String>
+    <v:String x:Key="Set_Language">Set language</v:String>
 </ResourceDictionary>
